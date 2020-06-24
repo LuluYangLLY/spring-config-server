@@ -1,6 +1,6 @@
 spring:
   application:
-    name: user-service
+    name: user
   datasource:
     url: jdbc:mysql://localhost:3306/spring-homework
     username: root
